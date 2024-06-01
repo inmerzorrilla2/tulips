@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
       <h1>¡Feliz sábado, mi guapa Celia!</h1>
+      <hr />
       <div className="tulips">
       <Tulips 
       name="Con tus flores favoritas, te digo:"
